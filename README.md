@@ -1,1 +1,1 @@
-Just basic Html+css+js
+Just basic Html+Css+Js
