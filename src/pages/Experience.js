@@ -30,7 +30,7 @@ function Experience() {
                 <div class="timeline-content">
                   <h3 class="date">Sep, 2022 - Current</h3>
                   <h1>University of Waterloo</h1>
-                  <p>Undergraude student</p>
+                  <p>Undergraduate student</p>
                 </div>
               </li>
               <li>
