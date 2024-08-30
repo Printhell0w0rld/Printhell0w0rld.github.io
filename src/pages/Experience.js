@@ -37,7 +37,7 @@ function Experience() {
                 <div class="timeline-content">
                   <h3 class="date">20th may, 2010</h3>
                   <h1>Heading 3</h1>
-                  <p>To be added To be added To be added To be added To be added To be added To be added To be added added</p>
+                  <p>To be added To be added To be added To be added To be added To be added To be added To be added added </p>
                 </div>
               </li>
               <li>
